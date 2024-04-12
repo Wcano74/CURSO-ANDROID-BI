@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="ingrese_un_texto">Ingrese un texto</string>
+    <string name="datos_insertados">Datos Insertados</string>
+    <string name="guardar">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="login_app">Login App</string>
+</resources>
