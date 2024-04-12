@@ -2,7 +2,7 @@
 <h3 align="center">Reto número 4</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Descripción:</h3>
 <p align="left">Con la base del reto3, ahora implementar la validacion con un servicio remoto. Implementar retrofit para la invocacion de API y cargar la data que devuelve el servicio en la pantalla de bienvenida (Imagen de perfil, nombre y direccion), si el servicio devuelve error, entonces deben mostrar un toast indicando el mensaje devuelto y no permitir ingresar a la aplicacion
 </p>
 
