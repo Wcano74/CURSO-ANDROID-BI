@@ -1,8 +1,8 @@
 <h1 align="center"> Curso Android 2024</h1>
 <h3 align="center">Reto número 4</h3>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/appdatabase-3ee89.appspot.com/o/fotos%2Flogin.jpg?alt=media&token=efba4f67-5632-4bee-8a4e-8b81cf007c77" alt="swift" width="40" height="40"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/appdatabase-3ee89.appspot.com/o/fotos%2FMario.jpg?alt=media&token=24442d65-f9d1-4038-b468-5003586f54b4" alt="swift" width="40" height="40"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/appdatabase-3ee89.appspot.com/o/fotos%2Flogin.jpg?alt=media&token=efba4f67-5632-4bee-8a4e-8b81cf007c77" alt="swift" width="60" height="200"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/appdatabase-3ee89.appspot.com/o/fotos%2FMario.jpg?alt=media&token=24442d65-f9d1-4038-b468-5003586f54b4" alt="swift" width="60" height="200"/>
 
 
 <h3 align="left">Descripción:</h3>
